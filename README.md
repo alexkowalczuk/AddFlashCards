@@ -1,21 +1,19 @@
-
-## Lab 2
+## Lab 3
 
 ### App Description
-Flashcard app, where you can create your own flashcard
+Update to flashcard app, allows you to add a new flashcard and save it on your phone.
 
 ### App Walk-though
-https://media.giphy.com/media/bbF0RAdkS1eAe2x1l2/giphy.gif
+https://thumbs.gfycat.com/CornyBareHermitcrab-small.gif
 
-<img src=https://media.giphy.com/media/bbF0RAdkS1eAe2x1l2/giphy.gif width=200><br>
+<img src=https://thumbs.gfycat.com/CornyBareHermitcrab-small.gif width=200><br>
 
 
 ## Required
-- [x] User can open the creation screen
-- [x] User can cancel out of the creation screen
-- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
 - [x] Push code to GitHub
 ## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
+- [ ] User can store multiple choice questions
